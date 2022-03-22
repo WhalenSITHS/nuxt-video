@@ -2,7 +2,7 @@
   <div>
     <PostPreview
       v-for="post in posts"
-      :key="post"
+      :key="post.title"
       :title="post.title"
       :desc="post.description"
     ></PostPreview>
