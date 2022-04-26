@@ -1,4 +1,5 @@
 ---
+slug: 2022-01-31-online-test
 title: Online Test
 description: lorem ipsum
 author: Whalen

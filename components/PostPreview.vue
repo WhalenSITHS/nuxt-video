@@ -1,5 +1,8 @@
 <template>
   <div class="PostPreview">
+    <nuxt-link :to="{ name: 'slug', params: { slug: slug } }">
+      Click ME</nuxt-link
+    >
     <h3>{{ title }}</h3>
     <p>{{ desc }}</p>
   </div>

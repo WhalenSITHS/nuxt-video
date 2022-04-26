@@ -1,4 +1,5 @@
 ---
+slug: 2022-02-07-rich-text-test
 title: Rich Text Test
 description: this is a test of Rich Text Field
 author: Mike Whalen

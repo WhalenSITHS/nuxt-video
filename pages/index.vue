@@ -5,6 +5,7 @@
       :key="post.title"
       :title="post.title"
       :desc="post.description"
+      :slug="post.slug"
     ></PostPreview>
   </div>
 </template>
